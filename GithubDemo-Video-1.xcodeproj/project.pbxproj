@@ -14,6 +14,7 @@
 		2285CC8D27CEB4090068D55C /* GithubDemo_Video_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2285CC8B27CEB4090068D55C /* GithubDemo_Video_1.xcdatamodeld */; };
 		2285CC8F27CEB40B0068D55C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2285CC8E27CEB40B0068D55C /* Assets.xcassets */; };
 		2285CC9227CEB40B0068D55C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2285CC9027CEB40B0068D55C /* LaunchScreen.storyboard */; };
+		22E7D98B27CEB67C0035F001 /* SecondSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E7D98A27CEB67C0035F001 /* SecondSwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2285CC8E27CEB40B0068D55C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2285CC9127CEB40B0068D55C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2285CC9327CEB40B0068D55C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22E7D98A27CEB67C0035F001 /* SecondSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2285CC8227CEB4090068D55C /* AppDelegate.swift */,
 				2285CC8427CEB4090068D55C /* SceneDelegate.swift */,
 				2285CC8627CEB4090068D55C /* ViewController.swift */,
+				22E7D98A27CEB67C0035F001 /* SecondSwiftUIView.swift */,
 				2285CC8827CEB4090068D55C /* MainView.storyboard */,
 				2285CC8E27CEB40B0068D55C /* Assets.xcassets */,
 				2285CC9027CEB40B0068D55C /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				2285CC8727CEB4090068D55C /* ViewController.swift in Sources */,
 				2285CC8D27CEB4090068D55C /* GithubDemo_Video_1.xcdatamodeld in Sources */,
+				22E7D98B27CEB67C0035F001 /* SecondSwiftUIView.swift in Sources */,
 				2285CC8327CEB4090068D55C /* AppDelegate.swift in Sources */,
 				2285CC8527CEB4090068D55C /* SceneDelegate.swift in Sources */,
 			);
